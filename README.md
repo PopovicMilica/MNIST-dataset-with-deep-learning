@@ -8,7 +8,7 @@ The second part has an additional hidden layer with 100 hidden units.
 
 ### Neural Network for digit recognition with different regularization techniques
 
-In this file I build a fully connected neural network from scratch and implement different regularization and optimization techniques. Neural network has two hidden layers with 300 hidden units in each layer.
+In this file I built a fully connected neural network from scratch and implemented different regularization and optimization techniques. Neural network has two hidden layers with 300 hidden units in each layer.
 
 The techniques used are:
 * L2 regularization. 
@@ -17,7 +17,7 @@ The techniques used are:
 
 ### MNIST dataset with CNN and TensorFlow
 
-In this file I investigate three models with different neural network architectures using TensorFlow. The activation function is Relu for all models. 
+In this file I investigated three models with different neural network architectures using TensorFlow. The chosen activation function is Relu for all models. 
 
 * First model have one convolutional layer and two fully connected layers. 
 * Second model has two convolutional layers and two fully connected layers.
